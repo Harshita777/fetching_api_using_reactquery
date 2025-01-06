@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "trid": 1,
+            "name": "John Doe",
+            "skills": [
+                "JavaScript",
+                "React",
+                "Node.js"
+            ],
+            "score": 85,
+            "hobby": "Cycling"
+        },
+        {
+            "trid": 2,
+            "name": "Jane Smith",
+            "skills": [
+                "Python",
+                "Django",
+                "Machine Learning"
+            ],
+            "score": 90,
+            "hobby": "Painting"
+        },
+        {
+            "trid": 3,
+            "name": "Alice Johnson",
+            "skills": [
+                "Java",
+                "Spring Boot",
+                "Microservices"
+            ],
+            "score": 88,
+            "hobby": "Photography"
+        },
+        {
+            "trid": 4,
+            "name": "Robert Brown",
+            "skills": [
+                "C++",
+                "Game Development",
+                "OpenGL"
+            ],
+            "score": 92,
+            "hobby": "Gaming"
+        },
+        {
+            "trid": 5,
+            "name": "Emily Davis",
+            "skills": [
+                "HTML",
+                "CSS",
+                "Tailwind CSS"
+            ],
+            "score": 80,
+            "hobby": "Cooking"
+        }
+    ]
+}
